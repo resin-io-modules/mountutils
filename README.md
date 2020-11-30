@@ -18,6 +18,12 @@ Install `mountutils` by running:
 $ npm install --save mountutils
 ```
 
+Mounting and Unmounting Block Devices Requires Elevated Permissions
+-------------------------------------------------------------------
+
+For more information on how Balena Etcher forks a priveleged process to write SD cards, see https://github.com/balena-io-modules/mountutils/issues/78
+
+
 Debug mode
 ----------
 
